@@ -1,0 +1,9 @@
+balrog
+build
+kickoff
+mozilla_buildtools
+release
+signing
+slavealloc
+sut_lib
+util

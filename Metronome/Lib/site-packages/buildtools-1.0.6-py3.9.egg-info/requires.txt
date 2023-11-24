@@ -1,0 +1,10 @@
+sqlalchemy
+argparse
+twisted
+simplejson
+furl
+requests
+docopt
+python-dateutil
+jinja2
+redo
